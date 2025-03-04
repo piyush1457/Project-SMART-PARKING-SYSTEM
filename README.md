@@ -1,5 +1,6 @@
 # Project-SMART-PARKING-SYSTEM
-Overview
+
+# Overview
 
 The Smart Parking System is an advanced solution designed to optimize parking space usage using IoT and real-time data processing. The system automates the process of finding and managing parking spots, reducing congestion and improving efficiency.
 
