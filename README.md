@@ -6,17 +6,18 @@ The Smart Parking System is an advanced solution designed to optimize parking sp
 
 ## Features
 
-Real-time Parking Availability: Users can check available parking spots in real-time.
+**Real-time Parking Availability**: Users can check available parking spots in real-time.
 
 Automated Entry/Exit: License plate recognition or RFID-based access control.
 
-Mobile & Web Interface: Interactive UI for booking and managing parking slots.
+**Mobile & Web Interface**: Interactive UI for booking and managing parking slots.
 
-IoT Sensors Integration: Smart sensors detect vehicle presence and update availability.
+**IoT Sensors Integration**: Smart sensors detect vehicle presence and update availability.
 
-Payment System: Supports online payments and automated billing.
+**Payment System**: Supports online payments and automated billing.
 
-Admin Dashboard: For managing parking lots, monitoring data, and generating reports.
+**Admin Dashboard**: For managing parking lots, monitoring data, and generating reports.
+
 
 ## Technologies Used
 
